@@ -1,0 +1,38 @@
+/* App.css */
+.App {
+  font-family: Arial, sans-serif;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.post {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+.post-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.post-actions {
+  margin-top: 10px;
+}
+
+.comment-section {
+  margin-top: 10px;
+}
+
+.add-comment textarea {
+  width: 100%;
+  padding: 5px;
+}
+
+.comments {
+  margin-top: 10px;
+}
+
+.comment {
+  margin-bottom: 5px;
+}
